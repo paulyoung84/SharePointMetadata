@@ -4,7 +4,7 @@ Powershell script to generate metadata from SharePoint Online site.
 This includes 
 
 - FileName
-- HashCode
+- MD5 checksum
 - URL
 - CreatedDate
 - ModifiedDate
