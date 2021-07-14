@@ -14,5 +14,7 @@ It needs the SharePoint Online Management Tool to be installed - https://www.mic
 
 You need to adjust the SharePoint URL variable to whatever site you want to run the script over, it will ask you to authenticate with appropriate login details.
 
+Based on script by Salaudeen Rajack - https://www.sharepointdiary.com/2019/04/SharePoint-online-find-duplicate-files-using-powershell.html#ixzz5vkGh8tXq
+
 
 
