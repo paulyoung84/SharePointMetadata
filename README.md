@@ -12,5 +12,7 @@ This includes
 
 It needs the SharePoint Online Management Tool to be installed - https://www.microsoft.com/en-gb/download/details.aspx?id=35588
 
+You need to adjust the SharePoint URL variable to whatever site you want to run the script over, it will ask you to authenticate with appropriate login details.
+
 
 
